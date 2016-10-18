@@ -1,0 +1,46 @@
+{% include header.html %}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="page-title"><i class="fa fa-envelope"></i>&nbsp;{{ page.title }}</h3>
+    </div>
+    <div class="panel-body">
+        <div class="text-center">
+            {{ content }}
+            <form class="form" action="">
+                <fieldset>
+                  <div class="row">
+                    <div class="col-md-6 form-group is-empty">
+                        <input type="text" class="form-control" id="focusedInput2" placeholder="Nome">
+                    </div>
+                    <div class="col-md-6 form-group is-empty">
+                        <input type="text" class="form-control" id="focusedInput2" placeholder="Cognome">
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-6 form-group is-empty">
+                        <input type="tel" class="form-control" id="focusedInput2" placeholder="Numero">
+                    </div>
+                    <div class="col-md-6 form-group is-empty">
+                        <input type="email" class="form-control" id="focusedInput2" placeholder="Email">
+                    </div>
+                  </div>
+                    <div class="row">
+                        <div class="col-md-12 form-group is-empty">
+                            <textarea id="focusedInput2" name="information" class="pure-input-1 form-control" rows="5" placeholder="Richiesta Informazioni"></textarea>
+                        </div>
+                    </div>
+                    <div class="row form-button">
+                        <div class="col-md-12 form-group is-empty">
+                            <button type="submit" class="btn btn-success btn-raised">Invia</button>
+                            <button type="reset" class="btn btn-danger btn-raised">Cancella</button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+{% include footer.html %}
