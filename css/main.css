@@ -7,7 +7,8 @@
 .navbar-header span{ position: absolute; left: 50px; bottom: -10px; width: 175px;}*/
 
 .navbar-default {
-    background-color: #155765!important; /* background-color: #37474f!important;*/
+    background-color: #155765!important;
+    /* background-color: #37474f!important;*/
 }
 
 @media (max-width: 767px) {
@@ -42,7 +43,9 @@
     font-weight: 600!important;
 }
 
-.navbar-nav{ margin: 7.5px -15px 0px; }
+.navbar-nav {
+    margin: 7.5px -15px 0px;
+}
 
 
 /*.navbar-toggle{ margin-top: 12px; }*/
@@ -63,11 +66,10 @@
     color: rgba(255, 255, 255, 0.843137)!important;
 }
 
-.list-group .list-group-item .row-content .least-content{
-  bottom: 0!important;
-  top: inherit!important;
+.list-group .list-group-item .row-content .least-content {
+    bottom: 0!important;
+    top: inherit!important;
 }
-
 
 .form-group {
     padding-bottom: 0;
