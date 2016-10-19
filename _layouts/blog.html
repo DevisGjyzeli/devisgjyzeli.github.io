@@ -11,7 +11,22 @@
     <div class="col-sm-8">
         <div class="panel panel-default">
             <div class="panel-body">
-                {{ content }}
+                <div class="list-group">
+                    {% for post in site.posts %}
+                    <div class="list-group-item">
+                        <div class="row-action-primary">
+                            <i class="fa fa-folder"></i>
+                        </div>
+                        <div class="row-content">
+                            <div class="least-content">{{ post.date | date_to_long_string }}</div>
+                            <h4 class="list-group-item-heading">{{ post.title }}</h4>
+                            <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+                            <a href="{{ post.url }}">Link URL</a>
+                        </div>
+                    </div>
+                    <div class="list-group-separator"></div>
+                    {% endfor %}
+                </div>
             </div>
         </div>
     </div>
