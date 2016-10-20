@@ -20,8 +20,12 @@ This is the link for [NodeJS][link-node]
 ##### **GulpJS**
 This is the link for [GulpJS][link-gulp]
 
+##### **WOW.js**
+This is the link for [WOW][link-wow]
+
 [link-jquery]: https://jquery.com/
 [link-react]: https://facebook.github.io/react/index.html
 [link-angular]: https://angularjs.org/
 [link-node]: https://nodejs.org/it/
-[link-gulp]:http://gulpjs.com/
+[link-gulp]: http://gulpjs.com/
+[link-wow]: http://mynameismatthieu.com/WOW/
