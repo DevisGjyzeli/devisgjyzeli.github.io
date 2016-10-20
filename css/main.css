@@ -2,6 +2,7 @@
     font-family: 'Exo', sans-serif;
 }
 
+.fa.fa-first-order{ font-size: 3em!important; }
 
 .post-title{ position: relative; }
 .post-title a{ position: absolute; right: 0; top: -15px; }
