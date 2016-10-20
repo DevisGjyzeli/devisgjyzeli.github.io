@@ -1,9 +1,9 @@
 $(document).ready(function() {
     //console.log("ready!");
     $('.nav a').on('mouseenter',function () {
-      $(this).addClass("animated pulse");
+      $(this).addClass("animated flip");
     }).on('mouseleave',function (){
-      $(this).removeClass("animated pulse");
+      $(this).removeClass("animated flip");
     });
 });
 
