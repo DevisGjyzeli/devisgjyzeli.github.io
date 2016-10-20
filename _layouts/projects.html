@@ -6,11 +6,15 @@
     </div>
     <div class="panel-body">
       <div class="row">
-        <div class="col-sm-6">
-          {% for post in site.categories.website %}
-            {{ content }}
-          {% endfor %}
+        {% for post in site.categories.website %}
+        <div class="col-sm-6 text-center">
+          <div class="jumbotron">  
+            <a href="{{ post.url }}">
+              <h4>{{ post.title }}</h4>
+            </a>
+          </div>
         </div>
+        {% endfor %}
       </div>
     </div>
   </div>
