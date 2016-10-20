@@ -5,7 +5,13 @@
       <h3 class="page-title"><i class="fa fa-folder"></i>&nbsp;{{ page.title }}</h3>
     </div>
     <div class="panel-body">
-      {{ content }}
+      <div class="row">
+        <div class="col-sm-6">
+          {% for post in site.categories.website %}
+            {{ content }}
+          {% endfor %}
+        </div>
+      </div>
     </div>
   </div>
 
