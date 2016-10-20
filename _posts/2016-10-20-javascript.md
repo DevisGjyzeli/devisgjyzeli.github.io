@@ -2,7 +2,7 @@
 layout: post
 title:  "Javascript Framework"
 date:   2016-10-20 00:00:01 +0200
-categories: web
+categories: blog
 ---
 
 ##### **jQuery**
