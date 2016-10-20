@@ -6,16 +6,16 @@ categories: web
 ---
 
 ##### **jQuery**
-This is the [link for jQuery][link-jquery]
+This is the link for [jQuery][link-jquery]
 
 ##### **React**
-This is the [link for React][link-react]
+This is the link for [React][link-react]
 
 ##### **AngularJS**
-This is the [link for AngularJS][link-angular]
+This is the link for [AngularJS][link-angular]
 
 ##### **NodeJS**
-This is the [link for NodeJS][link-node]
+This is the link for [NodeJS][link-node]
 
 [link-jquery]: https://jquery.com/
 [link-react]: https://facebook.github.io/react/index.html
