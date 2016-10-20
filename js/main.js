@@ -5,6 +5,7 @@ $(document).ready(function() {
     }).on('mouseleave',function (){
       $(this).removeClass("animated flipInY");
     });
+    
 });
 
 $(window).load(function() {
