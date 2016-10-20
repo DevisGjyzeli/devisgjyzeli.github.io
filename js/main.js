@@ -1,9 +1,9 @@
 $(document).ready(function() {
     //console.log("ready!");
     $('.nav a').on('mouseenter',function () {
-      $(this).addClass("animated shake");
+      $(this).addClass("animated pulse");
     }).on('mouseleave',function (){
-      $(this).removeClass("animated shake");
+      $(this).removeClass("animated pulse");
     });
 });
 
