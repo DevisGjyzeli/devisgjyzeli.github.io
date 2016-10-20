@@ -2,7 +2,7 @@
     font-family: 'Exo', sans-serif;
 }
 
-a:hover{ text-decoration: none; color: #984b43!important;}
+.list-group a:hover{ text-decoration: none; color: #984b43!important;}
 
 .hvr-underline-from-left:before{ background: #984b43!important; }
 .fa.fa-first-order{ font-size: 3em!important; }
