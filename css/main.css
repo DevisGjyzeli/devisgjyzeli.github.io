@@ -2,6 +2,7 @@
     font-family: 'Exo', sans-serif;
 }
 
+a.hvr-underline-from-left{ color: #984b43!important;}
 .hvr-underline-from-left:before{ background: #984b43!important; }
 .fa.fa-first-order{ font-size: 3em!important; }
 
