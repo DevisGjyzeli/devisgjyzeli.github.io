@@ -5,7 +5,7 @@ date:   2016-10-20 00:00:01 +0200
 categories: blog
 ---
 
-### **Framework**
+#### **Framework**
 
 * ##### [jQuery][link-jquery]
 
@@ -15,7 +15,7 @@ categories: blog
 
 * ##### [NodeJS][link-node]
 
-### **Plugins**
+#### **Plugins**
 
 * ##### [Gulp.js][link-gulp]
 
