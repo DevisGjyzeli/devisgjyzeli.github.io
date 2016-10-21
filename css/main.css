@@ -45,6 +45,12 @@
     .navbar .navbar-collapse {
         margin-top: 20px;
     }
+    .navbar-toggle {
+        margin-right: 0!important;
+    }
+    .navbar-brand {
+      padding: 10px 15px 10px 0!important;
+    }
 }
 
 .navbar-brand {
@@ -69,9 +75,9 @@
     bottom: -25px;
 }
 
-.navbar-toggle{
-  padding-top: 14px;
-  padding-bottom: 14px;
+.navbar-toggle {
+    padding-top: 14px;
+    padding-bottom: 14px;
 }
 
 .navbar a, .page-title, footer h6 {
