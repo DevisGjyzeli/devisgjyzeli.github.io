@@ -2,9 +2,6 @@
     font-family: 'Exo', sans-serif;
 }
 
-.panel.panel-primary {
-    margin-bottom: 0;
-}
 
 .list-group-item-heading {
     color: #009688!important;
@@ -102,6 +99,10 @@
 .jumbotron p {
     font-size: 14px!important;
     font-weight: 400!important;
+}
+
+.panel.panel-primary {
+    margin-bottom: 0;
 }
 
 .jumbotron-default, .panel-heading {
