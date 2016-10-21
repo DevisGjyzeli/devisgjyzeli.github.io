@@ -2,16 +2,36 @@
     font-family: 'Exo', sans-serif;
 }
 
-.panel.panel-primary{ margin-bottom: 0; }
+.panel.panel-primary {
+    margin-bottom: 0;
+}
 
-.list-group-item-heading{ color: #009688!important; }
+.list-group-item-heading {
+    color: #009688!important;
+}
 
-.hvr-underline-from-left:before{ background: rgba(255, 255, 255, 0.843137)!important; }
-.fa.fa-first-order{ font-size: 3em!important; }
+.hvr-underline-from-left:before {
+    background: rgba(255, 255, 255, 0.843137)!important;
+}
 
-.post-title{ position: relative; }
-.post-title a{ position: absolute; right: 0; top: -15px; }
-.post-title .fa.fa-undo{ font-size: 1.1em; }
+.fa.fa-first-order {
+    font-size: 3em!important;
+}
+
+.post-title {
+    position: relative;
+}
+
+.post-title a {
+    position: absolute;
+    right: 0;
+    top: -15px;
+}
+
+.post-title .fa.fa-undo {
+    font-size: 1.1em;
+}
+
 
 /*.navbar-header{ position: relative; top: -15px; }
 .navbar-header span{ position: absolute; left: 50px; bottom: -10px; width: 175px;}*/
@@ -28,7 +48,8 @@
 }
 
 .navbar-brand {
-    font-size: 22px;
+    font-family: 'Freckle Face', cursive;
+    font-size: 30px;
     position: absolute;
     left: 0;
     top: -15px;
@@ -46,7 +67,7 @@
     position: absolute;
     width: 175px;
     right: -40px;
-    bottom: -25px;
+    bottom: -30px;
 }
 
 .navbar a, .page-title, footer h6 {
