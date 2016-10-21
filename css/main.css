@@ -48,8 +48,7 @@
 }
 
 .navbar-brand {
-    font-family: 'Freckle Face', cursive;
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
     left: 0;
     top: -15px;
@@ -67,7 +66,12 @@
     position: absolute;
     width: 175px;
     right: -40px;
-    bottom: -30px;
+    bottom: -25px;
+}
+
+.navbar-toggle{
+  padding-top: 14px;
+  padding-bottom: 14px;
 }
 
 .navbar a, .page-title, footer h6 {
