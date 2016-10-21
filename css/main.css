@@ -45,6 +45,8 @@
     .navbar .navbar-collapse {
         margin-top: 20px;
     }
+}
+@media (max-width: 399px) {
     .navbar-toggle {
         margin-right: 0!important;
     }
