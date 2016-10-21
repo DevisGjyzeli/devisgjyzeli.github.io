@@ -1,27 +1,25 @@
 ---
 layout: post
-title:  "Javascript Framework"
+title:  "Javascript"
 date:   2016-10-20 00:00:01 +0200
 categories: blog
 ---
 
-##### **jQuery**
-This is the link for [jQuery][link-jquery]
+### **Framework**
 
-##### **React**
-This is the link for [React][link-react]
+* ##### [jQuery][link-jquery]
 
-##### **AngularJS**
-This is the link for [AngularJS][link-angular]
+* ##### [React][link-react]
 
-##### **NodeJS**
-This is the link for [NodeJS][link-node]
+* ##### [AngularJS][link-angular]
 
-##### **GulpJS**
-This is the link for [GulpJS][link-gulp]
+* ##### [NodeJS][link-node]
 
-##### **WOW.js**
-This is the link for [WOW][link-wow]
+### **Plugins**
+
+* ##### [Gulp.js][link-gulp]
+
+* ##### [WOW.js][link-wow]
 
 [link-jquery]: https://jquery.com/
 [link-react]: https://facebook.github.io/react/index.html
