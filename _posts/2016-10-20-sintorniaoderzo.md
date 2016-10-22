@@ -7,10 +7,10 @@ categories: website
 
 #### Strumenti utilizzati:
 
-* ##### API:
+##### API:
 * Google Maps API - per la creazione della mappa.
 
-* ##### CSS:
+##### CSS:
 * PureCSS - come framework per realizzare un sito responsive.
 * Animate.css - per le animazioni in generale.
 * Hover.css - per le animazioni quando il mouse si trova sopra determinati elementi.
@@ -18,7 +18,7 @@ categories: website
 * jQuery FlexSlider -
 * jQuery SwipeBox -
 
-* ##### Javascript:
+##### Javascript:
 * WOW.js -
 * parallax.js -
 * jQUery -
@@ -27,10 +27,10 @@ categories: website
 * jQuery SwipeBox -
 * jQuery Validation -
 
-* ##### Icons Pack:
+##### Icons Pack:
 * Font-Awesome -
 
-* ##### Font:
+##### Font:
 * Oswald - 400 - per i titoli delle varie sezioni.
 * Open Sans -400,600,800 - per il resto dei testi all'interno del sito.
 
