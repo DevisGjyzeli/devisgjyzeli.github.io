@@ -31,8 +31,8 @@ categories: website
 * Font-Awesome -
 
 ##### Font:
-* Oswald - 400 - per i titoli delle varie sezioni.
-* Open Sans -400,600,800 - per il resto dei testi all'interno del sito.
+* Oswald (400) - per i titoli delle varie sezioni.
+* Open Sans (400,600,800) - per il resto dei testi all'interno del sito.
 
 Per poter visulizzare il sito cliccate su [www.sintoniaoderzo.it][link-sintoniaoderzo]
 
