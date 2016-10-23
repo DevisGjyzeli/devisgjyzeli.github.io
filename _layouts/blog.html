@@ -5,8 +5,8 @@
         <div class="panel panel-primary">
             <div class="panel-heading">
                 <h3 class="page-title"><i class="fa fa-home"></i>&nbsp;{{ page.title }}</h3>
-                {% for categories in site.categories %}
-                  {{ post.categories }}
+                {% for page.categories in site.categories %}
+                  {{ page.categories }}
                 {% endfor %}
             </div>
         </div>
