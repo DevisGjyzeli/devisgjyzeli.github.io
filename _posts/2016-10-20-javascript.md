@@ -4,7 +4,6 @@ title:  "Javascript"
 date:   2016-10-20 00:00:01 +0200
 categories: developer
 ---
-
 #### **Framework**
 
 * ##### [jQuery][link-jquery]
