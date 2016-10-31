@@ -9,6 +9,7 @@ To crack the WEP key a hacker needs to capture sample packets not intended for h
 The guide assumes that your have wireless network card installed and that it supports monitor mode. In this example I’m using Realtek Semiconductor Co., Ltd. RTL-8185 IEEE 802.11a/b/g Wireless LAN Controller
 
 ### **1. AIR Crack Installation**
+
 ##### **Debian:**
 {% highlight ruby %}
 # apt-get install aircrack-ng
