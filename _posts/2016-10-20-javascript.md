@@ -16,7 +16,11 @@ categories: developer
 
 #### **Plugins**
 
+* ##### [Bower][link-bower]
+
 * ##### [Gulp.js][link-gulp]
+
+* ##### [Express][link-express]
 
 * ##### [WOW.js][link-wow]
 
@@ -24,5 +28,7 @@ categories: developer
 [link-react]: https://facebook.github.io/react/index.html
 [link-angular]: https://angularjs.org/
 [link-node]: https://nodejs.org/it/
+[link-bower]: https://bower.io/
 [link-gulp]: http://gulpjs.com/
+[link-express]: http://expressjs.com/it/
 [link-wow]: http://mynameismatthieu.com/WOW/
