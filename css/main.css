@@ -21,8 +21,8 @@
 
 .post-title a {
     position: absolute;
-    right: 0;
-    top: -15px;
+    right: -16px;
+    top: -40px;
 }
 
 .post-title .fa.fa-undo {

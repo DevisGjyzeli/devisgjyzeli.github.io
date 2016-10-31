@@ -8,6 +8,7 @@ $(document).ready(function() {
     });
     */
 
+    $('img').addClass("img-responsive");
 });
 
 $(window).load(function() {

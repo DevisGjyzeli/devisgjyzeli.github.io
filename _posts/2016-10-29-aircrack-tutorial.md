@@ -44,6 +44,7 @@ In this guide i’m are going to crack a wireless WEP key of my own network. In 
 Information we can retrieve from airodump-ng output:
 
 ![](/img/blog/cracking-wireless-network-using-air-crack/identify-wireless-network-BSSID.png)
+
 ##### **BASE:**
 BSSID : 00:11:95:9F:FD:F4
 Channel: 6
