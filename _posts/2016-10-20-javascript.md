@@ -4,7 +4,7 @@ title:  "Javascript"
 date:   2016-10-20 00:00:01 +0200
 categories: developer
 ---
-#### **Framework**
+#### **Framework Front End**
 
 * ##### [jQuery][link-jquery]
 
@@ -12,15 +12,17 @@ categories: developer
 
 * ##### [AngularJS][link-angular]
 
+#### **Framework Back End**
+
 * ##### [NodeJS][link-node]
 
-#### **Plugins**
-
-* ##### [Bower][link-bower]
+* ##### [Express][link-express]
 
 * ##### [Gulp.js][link-gulp]
 
-* ##### [Express][link-express]
+* ##### [Bower][link-bower]
+
+#### **Plugins**
 
 * ##### [WOW.js][link-wow]
 
@@ -28,7 +30,7 @@ categories: developer
 [link-react]: https://facebook.github.io/react/index.html
 [link-angular]: https://angularjs.org/
 [link-node]: https://nodejs.org/it/
-[link-bower]: https://bower.io/
-[link-gulp]: http://gulpjs.com/
 [link-express]: http://expressjs.com/it/
+[link-gulp]: http://gulpjs.com/
+[link-bower]: https://bower.io/
 [link-wow]: http://mynameismatthieu.com/WOW/

@@ -18,7 +18,7 @@
                             <i class="fa fa-file-text"></i>
                         </div>
                         <div class="row-content">
-                            <div class="least-content">{{ post.date | date_to_long_string }}</div>
+                            <div class="least-content"><time datetime="{{post.date | html5date}}">{{post.date | italianDate}}</time></div>
                             <a href="{{ post.url }}">
                               <p class="list-group-item-heading">{{ post.title }}</p>
                             </a>
