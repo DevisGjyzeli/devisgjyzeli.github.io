@@ -151,7 +151,7 @@ footer {
 }
 
 footer .footer-box {
-    border-top: 1px solid black;
+    border-top: 1px solid #000000;
     padding: 15px 15px 0;
     margin-bottom: 15px;
 }
@@ -166,17 +166,46 @@ footer .btn-fab {
     color: rgba(255, 255, 255, 0.843137)!important;
 }
 
+footer .btn-fab:hover {
+    background-color: #eee!important;
+}
+
+footer .fa{
+  padding: 10px;
+}
+
 footer .fa.fa-linkedin {
-    margin-left: -10px;
-    margin-top: 2px;
+    margin-left: -20px;
+    margin-top: -8px;
+}
+
+footer .fa.fa-linkedin:hover {
+    color: #0077b5!important;
 }
 
 footer .fa.fa-github {
-    margin-left: -10px;
-    margin-top: 4px;
+    margin-left: -20px;
+    margin-top: -6px;
+}
+
+footer .fa.fa-github:hover {
+    color: #333!important;
+}
+
+footer .fa.fa-code {
+    margin-left: -22px;
+    margin-top: -7px;
+}
+
+footer .fa.fa-code:hover {
+    color: #000!important;
 }
 
 footer .fa.fa-soundcloud {
-    margin-left: -15px;
-    margin-top: 4px;
+    margin-left: -25px;
+    margin-top: -6px;
+}
+
+footer .fa.fa-soundcloud:hover {
+    color: #ff3a00!important;
 }
